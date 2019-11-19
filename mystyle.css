@@ -1,0 +1,21 @@
+ul{
+	list-style-type: none;
+	margin: 0; 	
+	padding: 0;
+}
+a{
+	color: #25518f;
+	text-decoration: none;
+}
+body{ 
+	background-color: white;
+	background-image: url("Leaves_BG10.png");
+	font-family: Verdana;
+	font-size: 14px;
+	color: #000000;
+}
+h1{
+	color: #f50f0f;
+	font-size: 24px;
+	font-family: Georgia;
+}
